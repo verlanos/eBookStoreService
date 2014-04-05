@@ -1,0 +1,11 @@
+<?php
+define('DB_USERNAME',"sb610");
+define('DB_PASSWORD',"hber+wh");
+define('DB_HOST',"dragon.ukc.ac.uk");
+define('DB_DATABASE',"sb610");
+define('DATA_FOLDER',"/proj/co639/assessment2_data/sb610/");
+define('SERVICE_URL',".");
+define('AUDIT_LOG_START_KEY',".");
+define('PAYPAL_PHP_SDK','/courses/co639/');
+define('PP_CONFIG_PATH',__DIR__);
+?>
